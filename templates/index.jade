@@ -1,0 +1,12 @@
+extends layout
+
+block subhead
+  .jumbotron
+    h1 2015 Imperial College Computing Student Workshop
+    // FIXME: But this in when we know the dates
+    // p.lead September ??-??, 2015 London, United Kingdom
+    p
+      img(src='img/acmchapter.png', height='100')
+
+block content
+  .node!= page.html
