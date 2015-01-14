@@ -18,10 +18,11 @@ The workshop offers:
 
 ### Important Dates
 
-* Abstracts due: TBC
-* Paper submission due: TBC
-* Acceptance notification: TBC
-* Final papers due: TBC
+* Abstracts due: **Friday 5th June 2015, 23:59:59 BST**
+* Paper submission due: **Friday 12th June 2015, 23:59:59 BEST**
+* Reviews due: **Friday 3rd July 2015, 23:59:59 BST**
+* Acceptance notification: **Wednesday 8th July 2015**
+* Final papers due: **Friday 24th July 2015**
 
 ### Submission
 
