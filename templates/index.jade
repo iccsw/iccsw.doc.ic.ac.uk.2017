@@ -2,11 +2,11 @@ extends layout
 
 block subhead
   .jumbotron
-    h1 2015 Imperial College Computing Student Workshop
-    // FIXME: But this in when we know the dates
-    // p.lead September ??-??, 2015 London, United Kingdom
-    p
-      img(src='img/acmchapter.png', height='100')
+    .row
+
+      .col-md-12
+        h1.extrabig 2015 Imperial College Computing Student Workshop
+        p.lead September 24-25, 2015 London, United Kingdom
 
 block content
   .node!= page.html

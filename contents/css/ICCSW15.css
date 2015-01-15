@@ -1,0 +1,26 @@
+.navbar {
+	background-color:#174D80;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #103050;
+}
+
+.navbar-collapse.nav-collapse > ul > li > a {
+	  color: #fff;
+}
+
+.navbar-collapse.nav-collapse > ul > li > a:hover,
+.navbar-collapse.nav-collapse > ul > li > a:focus {
+  color: #fff;
+  background-color: #1577D9;
+}
+
+.jumbotron .extrabig {
+	font-size: 40px;
+	font-weight: bold;
+}
+
