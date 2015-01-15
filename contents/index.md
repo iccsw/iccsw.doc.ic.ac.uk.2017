@@ -39,4 +39,8 @@ currently being planned.
   <img src="img/icl.png" style="height: 40px; margin:
 1em;" alt="Imperial College London"/>
 </a>
+<a href="http://www.dagstuhl.de/en/publications/oasics">
+  <img src="img/oasics.png"  style="height: 40px;
+margin: 1em;" alt="OASIcs"/>
+</a>
 </div>
