@@ -13,7 +13,7 @@ template: page.jade
 * [Doniyor Ulmasov](http://www.doniyor.com/)
 * [Feryal M. P. Behbahani](#)
 * [Jacek Zienkiewicz](#)
-* [Kristijonas Čyras](https://sites.google.com/site/kristijonascyras/home)
+* [Kristijonas Čyras](http://www.doc.ic.ac.uk/~kc2813/)
 * [Luo Mai](#)
 * [Martin Ingram](http://dsg.doc.ic.ac.uk/people/ahmet-bertan-kavuncu/)
 * [Pedro Mediano](#)
