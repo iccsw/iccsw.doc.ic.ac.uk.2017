@@ -7,18 +7,18 @@ template: page.jade
 
 * [Bertan Kavuncu](http://dsg.doc.ic.ac.uk/people/ahmet-bertan-kavuncu/)
 * [Casper da Costa-Luis](http://www.doc.ic.ac.uk/~cod11/)
-* [Christina Koutsoumpa](#)
+* Christina Koutsoumpa
 * [Claudia Schulz](http://www.doc.ic.ac.uk/~cis11/)
 * [Dan Liew](http://www.danliew.co.uk)
 * [Doniyor Ulmasov](http://www.doniyor.com/)
-* [Feryal M. P. Behbahani](#)
-* [Jacek Zienkiewicz](#)
+* Feryal M. P. Behbahani
+* Jacek Zienkiewicz
 * [Kristijonas Čyras](http://www.doc.ic.ac.uk/~kc2813/)
-* [Luo Mai](#)
+* Luo Mai
 * [Martin Ingram](http://dsg.doc.ic.ac.uk/people/ahmet-bertan-kavuncu/)
-* [Pedro Mediano](#)
+* Pedro Mediano
 * [Rares Turliuc](http://www.doc.ic.ac.uk/~ct1810/)
-* [Silvia Vinyes Mora](http://aesop.doc.ic.ac.uk/people/sv212/)
+* Silvia Vinyes Mora
 
 ## Ambassadors
 
