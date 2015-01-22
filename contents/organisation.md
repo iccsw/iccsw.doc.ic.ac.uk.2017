@@ -5,7 +5,20 @@ template: page.jade
 
 ## Steering Committee
 
-To be confirmed.
+* [Bertan Kavuncu](http://dsg.doc.ic.ac.uk/people/ahmet-bertan-kavuncu/)
+* [Casper da Costa-Luis](http://www.doc.ic.ac.uk/~cod11/)
+* [Christina Koutsoumpa](#)
+* [Claudia Schulz](http://www.doc.ic.ac.uk/~cis11/)
+* [Dan Liew](http://www.danliew.co.uk)
+* [Doniyor Ulmasov](http://www.doniyor.com/)
+* [Feryal M. P. Behbahani](#)
+* [Jacek Zienkiewicz](#)
+* [Kristijonas Čyras](#)
+* [Luo Mai](#)
+* [Martin Ingram](http://dsg.doc.ic.ac.uk/people/ahmet-bertan-kavuncu/)
+* [Pedro Mediano](#)
+* [Rares Turliuc](http://www.doc.ic.ac.uk/~ct1810/)
+* [Silvia Vinyes Mora](http://aesop.doc.ic.ac.uk/people/sv212/)
 
 ## Ambassadors
 
