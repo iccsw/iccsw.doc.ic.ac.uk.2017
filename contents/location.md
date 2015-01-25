@@ -59,7 +59,7 @@ The following buses stop near the South Kensington Campus:
 * Prince Consort Road: 9A
 
 For a more detailed location of bus stops here is the [Transport for
-London bus map](http://www.tfl.gov.uk/assets/downloads/centlond.pdf).
+London bus map](http://www.tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/central-london-bus-map.pdf).
 
 ### On Foot
 
