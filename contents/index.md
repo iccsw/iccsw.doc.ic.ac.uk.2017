@@ -33,7 +33,10 @@ world. All doctoral students are thereby encouraged to submit papers
 covering their ongoing research. The fifth edition of the workshop is
 currently being planned.
 
+---
+
 ### Platinum Sponsors
+
 <div class="row" style="text-align: center;">
 <a href="http://www.google.com/about/corporate/company/">
   <img src="img/google.png" style="height: 40px; margin: 1em;" alt="Google">
