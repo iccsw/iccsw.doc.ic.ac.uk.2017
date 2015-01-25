@@ -15,7 +15,7 @@ template: page.jade
 * Jacek Zienkiewicz
 * [Kristijonas Čyras](http://www.doc.ic.ac.uk/~kc2813/)
 * Luo Mai
-* [Martin Ingram](http://dsg.doc.ic.ac.uk/people/ahmet-bertan-kavuncu/)
+* Martin Ingram
 * Pedro Mediano
 * [Rares Turliuc](http://www.doc.ic.ac.uk/~ct1810/)
 * Silvia Vinyes Mora
