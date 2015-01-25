@@ -9,6 +9,8 @@ The proceedings will be published as an open-access volume in the
 [OpenAccess Series in Informatics
 (OASIcs)](http://www.dagstuhl.de/en/publications/oasics) published by [Schloss Dagstuhl](http://www.dagstuhl.de/en/).
 
+Authors of accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW’15. 
+
 __What rights will I retain as an author after publishing my paper at
 ICCSW'15?__
 
