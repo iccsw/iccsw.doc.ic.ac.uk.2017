@@ -13,6 +13,11 @@
 	  color: #fff;
 }
 
+.navbar-inverse
+{
+    border-width: 0px;
+}
+
 .navbar-collapse.nav-collapse > ul > li > a:hover,
 .navbar-collapse.nav-collapse > ul > li > a:focus {
   color: #fff;
