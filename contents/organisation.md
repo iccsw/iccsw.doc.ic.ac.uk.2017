@@ -12,7 +12,7 @@ template: page.jade
 * [Dan Liew](http://www.danliew.co.uk)
 * [Doniyor Ulmasov](http://www.doniyor.com/)
 * Feryal M. P. Behbahani
-* Jacek Zienkiewicz
+* [Jacek Zienkiewicz](http://www.doc.ic.ac.uk/~jz4411/)
 * [Kristijonas Čyras](http://www.doc.ic.ac.uk/~kc2813/)
 * Luo Mai
 * Martin Ingram
