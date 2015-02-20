@@ -58,7 +58,7 @@ The main criterion for evaluating the submissions will be originality. Papers ba
 
 For each submitted paper, the authors will be required to review two or three papers, not necessarily related to the topic of their immediate expertise. To ensure reviews are objective and meet academic standards the steering committee will read all the reviews prior to their release.
 
-All accepted technical, survey and tools papers of ICCSW’15 will be published in the OpenAccess Series in Informatics (OASIcs) by Schloss Dagstuhl. Authors of accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'15. It is expected that one of the paper authors (a doctoral student) will attend the workshop and present their work.
+All accepted technical, survey and tools papers of ICCSW’15 will be published in the OpenAccess Series in Informatics (OASIcs) by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)). Authors of accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'15. It is expected that one of the paper authors (a doctoral student) will attend the workshop and present their work.
 
 ---
 
@@ -77,6 +77,6 @@ To contact workshop organisers with any questions, please email [iccsw@imperial.
 <div align="right">_- ICCSW’15 Steering Committee_</div>
 
 
-[OASIcs format]: http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz
+
 
 
