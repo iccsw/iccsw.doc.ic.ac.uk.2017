@@ -52,7 +52,7 @@ Page limits:
 
 - 7 pages for technical and survey papers, excluding references, OASIcs format.
 
-- 5 pages for tool papers, excluding references, OASIcs format.
+- 5 pages for tool papers, excluding references, [OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz).
 
 The main criterion for evaluating the submissions will be originality. Papers based on previous published work will be considered only if they include a footnote to the title specifying the previously published work. In addition, a short appendix describing changes from the published paper can be submitted (optionally) to help the reviewing.
 
