@@ -43,13 +43,13 @@ currently being planned.
 </a>
 </div>
 
-### Bronze Sponsors
+<!-- ### Bronze Sponsors
 
 <div class="row" style="text-align: center;">
 <a href="http://www.arm.com/about/our-story/index.php">
   <img src="img/arm.png" style="height: 40px; margin: 1em;" alt="Google">
 </a>
-</div>
+</div> -->
 
 
 ### Supporters
