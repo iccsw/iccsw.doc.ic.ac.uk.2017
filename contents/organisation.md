@@ -24,3 +24,10 @@ template: page.jade
 Interested in being a 2015 Imperial College Computing Student Workshop
 ambassador at your institution? Please contact
 [iccsw@imperial.ac.uk](mailto:iccsw@imperial.ac.uk).
+
+## Promotional Material
+You can find the PDF versions of the promotional materials below.
+* [Poster](promotionalM/poster.pdf)
+* [Brochure](promotionalM/brochure.pdf)
+* [Flyer](promotionalM/flyer.pdf)
+
