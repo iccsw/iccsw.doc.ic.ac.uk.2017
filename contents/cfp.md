@@ -60,6 +60,8 @@ For each submitted paper, the authors will be required to review two or three pa
 
 All accepted technical, survey and tools papers of ICCSW’15 will be published in the OpenAccess Series in Informatics (OASIcs) by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)). Authors of accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'15. It is expected that one of the paper authors (a doctoral student) will attend the workshop and present their work.
 
+Submission of papers should be done via EasyChair at http://www.easychair.org/conferences/?conf=iccsw15.
+
 ---
 
 #### ORGANISATION
