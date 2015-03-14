@@ -58,6 +58,7 @@ module.exports = function(grunt) {
     },
     rsync: {
       options: {
+        args: ["--chmod=D2775,F0664"],
         exclude: [".git*","*.less","node_modules"],
         recursive: true,
         ssh: true
