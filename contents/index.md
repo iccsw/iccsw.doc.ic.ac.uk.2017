@@ -34,6 +34,19 @@ covering their ongoing research. The fifth edition of the workshop is
 currently being planned.
 
 ---
+<div class="row" style="text-align: center;background-color:#174D80;padding:5px;">
+	<h2 style="font-weight: bold;color:#FFF;margin:0px;">
+		2015 ICCSW Keynote speakers:
+	</h1>
+</div>
+<div class="row" style="text-align: center;background-color:#eee;">
+	<h3 style="font-style: italic;">
+		[Chris DiBona (Google)](https://sites.google.com/a/dibona.com/www/) and [Erik Mueller (MIT)](http://xenia.media.mit.edu/~mueller/)
+	</h2>
+</div>
+
+
+---
 
 ### Platinum Sponsors
 
