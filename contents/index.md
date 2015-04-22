@@ -42,7 +42,7 @@ currently being planned.
 <div class="row" style="text-align: center;background-color:#eee;">
 	<h3 style="font-style: italic;">
 		[Chris DiBona (Google)](https://sites.google.com/a/dibona.com/www/) and [Erik Mueller (MIT)](http://xenia.media.mit.edu/~mueller/)
-	</h2>
+	</h3>
 </div>
 
 
