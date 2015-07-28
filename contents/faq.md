@@ -18,14 +18,6 @@ All articles published in OASIcs are licensed under a Creative Commons
 licence. This allows for the original authors to retain the copyright of
 the article.
 
-__What style should I use for my paper?__
-
-To be confirmed
-<!--
-Please use OASIcs LaTeX style. You can find a copy
-[here](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz).
--->
-
 __What are the instructions for papers that has either been previously
 published elsewhere?__
 
