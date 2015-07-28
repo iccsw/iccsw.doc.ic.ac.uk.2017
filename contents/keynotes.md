@@ -68,7 +68,7 @@ template: page.jade
 
 <div class="row" style="text-align: center;background-color:#174D80;padding:20px;">
 	<h2 style="font-weight: bold;color:#FFF;margin:0px;">
-		Chris DiBona Keynote TBC
+		Google and Open Source
 	</h2>
 	<h4 style="text-align: right;font-weight: bold;color:#FFF;margin:0px;">
 		[Chris DiBona (Google)](https://sites.google.com/a/dibona.com/www/)
