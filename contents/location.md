@@ -3,10 +3,8 @@ title: Location
 template: page.jade
 ---
 
-The workshop will be hosted at the Department of Computing located
-inside the South Kensington Campus at Imperial College London, 180
-Queen's Gate, London SW7 2AZ. **The location within the department has
-not yet been confirmed.**
+All workshop events takes place at at 58 Princes Gate in the ["Ballroom".](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/58pg). However, the keynote talks take place in  Lecture Theatre 3 in the Blackett Building.
+
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zYEjZyEZ3Q8M.kCiw0XKfNWG4" width="740" height="320" frameborder="0" scrolling="no"

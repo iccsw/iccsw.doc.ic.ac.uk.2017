@@ -35,9 +35,12 @@ template: page.jade
 		  these three things, I review the event calculus described in my
 		  book Commonsense Reasoning. This formalism is especially useful for
 		  the narrative understanding task.
-		  
-	</div>
 
+	</div>
+</div>
+
+<div class="row" style="background-color:#ddd;text-align: center;;padding:10px;">
+The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00. 
 </div>
 
 <div class="row" style="background-color:#fff;padding-right:5px;padding-left:25px;padding-bottom:25px;">
@@ -80,9 +83,10 @@ template: page.jade
 
 Specifically for the students assembled, Mr. DiBona will also talk about the university oriented program “The Summer of Code” which is designed to lure students into open source projects and provide for them the real world mentorship they need to become open source committers themselves. A paid internship that lasts approximately 3 months during the summer months, The Summer of Code has introduced over 10,000 developers in 123 countries to open source software development and added over 30 million lines of code to open source projects that Google and the students use every day of their lives. 
 	</div>
-
 </div>
-
+<div class="row" style="background-color:#ddd;text-align: center;;padding:10px;">
+The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00. 
+</div>
 
 
 
