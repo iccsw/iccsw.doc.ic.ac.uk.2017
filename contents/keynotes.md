@@ -40,7 +40,7 @@ template: page.jade
 </div>
 
 <div class="row" style="background-color:#ddd;text-align: center;;padding:10px;">
-The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00. 
+The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00 on Friday, 25th September.
 </div>
 
 <div class="row" style="background-color:#fff;padding-right:5px;padding-left:25px;padding-bottom:25px;">
@@ -85,7 +85,7 @@ Specifically for the students assembled, Mr. DiBona will also talk about the uni
 	</div>
 </div>
 <div class="row" style="background-color:#ddd;text-align: center;;padding:10px;">
-The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00. 
+The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00 on Thursday, 24th September.
 </div>
 
 

@@ -63,9 +63,11 @@ London bus map](http://www.tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/ce
 
 From South Kensington station either follow the subway signposted to the
 museums or walk north up Exhibition Road. The main entrance to the
-College is just past the Science Museum. To get to the Huxley Building
-from here go through the main entrance and follow the elevated walkway
-to the far end; this enters the building on level 3. From Gloucester
+College is just past the Science Museum. To get to the  58 Princes Gate turn to the
+right on the Exhibition Road opposite of Imperial College London Business School. For 
+the Blackett Building from the main entrance go through the main entrance and follow the elevated walkway
+to the far end; this enters the building on level 3 of Huxley Building. Turn right, and follow the 
+corridor to the end to arrive at LT3 of Blackett Build. From Gloucester
 Road station walk north up Gloucester Road and turn right at Queen's
 Gate Terrace; the entrance to the Department is opposite the end of
 Queen's Gate Terrace, on Queen's Gate itself. Both stations are about a
