@@ -31,7 +31,7 @@ Keynote (**Chair:** Feryal Behbahani)
 Model Checking (**Chair:** Dan Liew)
 * **15:35** - **16:15** **Agnieszka Zbrzezny and Andrzej Zbrzezny:**	Checking WECTLK Properties of Timed Real-Weighted Interpreted Systems via SMT-based Bounded Model Checking 
 	
-Social Event	
+Social Event **1815 - 1030**. Meet at 1700
 
 ---
 
@@ -63,4 +63,4 @@ Surveys of different areas in Computing (**Chair:** Martin Ingram)
 	
 * **17:40** - **18:00** 	Closing Remarks & Prizes
 
-Social Event	
+Social Event **1900 - ??:??*
