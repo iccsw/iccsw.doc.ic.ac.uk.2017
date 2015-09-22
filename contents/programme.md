@@ -19,10 +19,10 @@ Computer Vision (**Chair:** Fahdi Kanavati)
 Computing in Medicine (**Chair:** Kristijonas Cyras)
 * **10:50** - **11:30**	**António Silva, Tiago Oliveira, Paulo Novais and Jose Neves:** Representing Temporal Patterns in Computer-Interpretable Clinical Guidelines  
 * **11:30** - **12:10**	**Jian Zhang:** Automatic Transformation of Raw Clinical Data into Clean Data Using Decision Tree Learning Combining with String Similarity 
+* **12:10** - **13:45**	Lunch Break
 
 Keynote (**Chair:** Feryal Behbahani)
 	
-* **12:10** - **13:45**	Lunch Break
 	
 * **14:00** - **15:00**	Keynote: [**Chris DiBona**](/2015/keynotes.html) (LT3 Blackett Building)
 
@@ -48,9 +48,9 @@ Natural Language Processing (**Chair:** Casper da Costa-Luis)
 Knowledge Representation and Reasoning (**Chair:** Claudia Schulz)
 * **10:50** - **11:30** **Evgenios Hadjisoteriou:**	Computing Argumentation Extensions with Matrices 
 * **11:30** - **12:10** **Christof Spanring:** Hunt for the Collapse of Semantics in Infinite Abstract Argumentation Frameworks  
+* **12:10** - **13:45**	Lunch Break
 	
 Keynote (**Chair:** Claudia Schulz)
-* **12:10** - **13:45**	Lunch Break
 	
 * **14:00** - **15:00**	Keynote: [**Erik Mueller**](/2015/keynotes.html) (LT3 Blackett Building)
 	
