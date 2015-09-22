@@ -12,7 +12,7 @@ All workshop events takes place at at 58 Princes Gate in the ["Ballroom"](http:/
 * **09:20 - 09:40**	Welcome
 	
 Computer Vision	
-* **09:40 - 10:20**	**Julius Schöning:** Interactive 3D reconstruction: new opportunities for getting CAD-ready models  
+* **09:40 - 10:20**	**Julius Schöning:** Interactive 3D Reconstruction: New Opportunities For Getting CAD-ready Models
 
 * **10:20** - **10:50**	Coffee Break
 	
