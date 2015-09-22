@@ -60,6 +60,6 @@ Surveys of different areas in Computing
 * **16:20** - **17:00**	**Hasmik Osipyan, Martin Krulis and Stephane Marchand-Maillet:** Adaptation of Multidimensional Scaling on GPU Architectures: A Survey 
 * **17:00** - **17:40**	**Khaled El-Abbasy, Anastassia Angelopoulou and Tony Towell:** Affective Computing to enhance E-Learning in Segregated Societies  
 	
-* **17:40** - **18:00** 	Closing Remarks & Prices
+* **17:40** - **18:00** 	Closing Remarks & Prizes
 
 Social Event	
