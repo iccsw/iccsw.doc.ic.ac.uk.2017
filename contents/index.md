@@ -33,6 +33,16 @@ world. All doctoral students are thereby encouraged to submit papers
 covering their ongoing research. The fifth edition of the workshop is
 currently being planned.
 
+# Proceedings
+
+The proceedings are published as an [OpenAccess Series in Informatics](http://www.dagstuhl.de/en/publications/oasics) volume, [OASICS Vol. 49](http://drops.dagstuhl.de/portals/oasics/index.php?semnr=15016).
+
+# Prize Winners
+
+* Best Paper: TBA
+* Best Presentation: TBA
+* Best Reviewer: TBA
+
 ---
 <div class="row" style="text-align: center;background-color:#174D80;padding:5px;">
 	<h2 style="font-weight: bold;color:#FFF;margin:0px;">
