@@ -24,7 +24,7 @@ Computing in Medicine (**Chair:** Kristijonas Cyras)
 Keynote (**Chair:** Feryal Behbahani)
 	
 	
-* **14:00** - **15:00**	Keynote: [**Chris DiBona**](/2015/keynotes.html) (LT3 Blackett Building)
+* **14:00** - **15:00**	Keynote: [**Chris DiBona**](/2015/keynotes.html) Google and Open Source (LT3 Blackett Building)
 
 * **15:15** - **15:35**	Coffee Break
 	
@@ -52,7 +52,7 @@ Knowledge Representation and Reasoning (**Chair:** Claudia Schulz)
 	
 Keynote (**Chair:** Claudia Schulz)
 	
-* **14:00** - **15:00**	Keynote: [**Erik Mueller**](/2015/keynotes.html) (LT3 Blackett Building)
+* **14:00** - **15:00**	Keynote: [**Erik Mueller**](/2015/keynotes.html) Going Beyond Fact-Based Question Answering (LT3 Blackett Building)
 	
 * **15:15** - **15:40**	Coffee Break
 	
