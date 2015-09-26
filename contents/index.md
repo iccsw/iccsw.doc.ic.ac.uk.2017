@@ -39,9 +39,9 @@ The proceedings are published as an [OpenAccess Series in Informatics](http://ww
 
 # Prize Winners
 
-* Best Paper: TBA
-* Best Presentation: TBA
-* Best Reviewer: TBA
+* Best Paper: **Evgenij Belikov**
+* Best Presentation: **F. Sharmila Satthar**
+* Best Reviewer: **Christof Spanring**
 
 ---
 <div class="row" style="text-align: center;background-color:#174D80;padding:5px;">
