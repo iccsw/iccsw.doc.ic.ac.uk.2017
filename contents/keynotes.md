@@ -37,6 +37,9 @@ template: page.jade
 		  the narrative understanding task.
 
 	</div>
+    <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SJ7V6bSr8PA" frameborder="0" allowfullscreen></iframe>
+    </center>
 </div>
 
 <div class="row" style="background-color:#ddd;text-align: center;;padding:10px;">
@@ -83,6 +86,9 @@ The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00 o
 
 Specifically for the students assembled, Mr. DiBona will also talk about the university oriented program “The Summer of Code” which is designed to lure students into open source projects and provide for them the real world mentorship they need to become open source committers themselves. A paid internship that lasts approximately 3 months during the summer months, The Summer of Code has introduced over 10,000 developers in 123 countries to open source software development and added over 30 million lines of code to open source projects that Google and the students use every day of their lives. 
 	</div>
+    <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Y89fJyMyZDU" frameborder="0" allowfullscreen></iframe>
+    </center>
 </div>
 <div class="row" style="background-color:#ddd;text-align: center;;padding:10px;">
 The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00 on Thursday, 24th September.
