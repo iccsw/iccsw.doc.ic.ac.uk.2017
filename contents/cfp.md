@@ -3,27 +3,22 @@ title: Call for Papers
 template: page.jade
 ---
 
-The 5th Imperial College Computing Student Workshop (ICCSW) aims to
-provide an international forum for doctoral students in computing. While
-most conferences and workshops in academia solely cater for specific
-research areas, ICCSW encourages doctoral students from all disciplines
-in computer science to submit papers and take part in the event. It is a
-workshop organised by students for students. The workshop will be hosted
-by the [Department of Computing](http://www.doc.ic.ac.uk/) at
-[Imperial College London](http://www.imperial.ac.uk/).
+The 6th Imperial College Computing Student Workshop (ICCSW) aims to provide an international forum for doctoral students in computing, a workshop for students, by students!
 
----
+Over the past six years, ICCSW has been established as a high quality student-run international academic event in Europe. Both organisers and participants are doctoral students from the United Kingdom and other countries. The workshop is an opportunity to both publish and discuss new research, including work-in-progress, and network with peers from other institutions.
 
-#### The workshop offers:
+While most conferences and workshops in academia solely cater for specific research fields, ICCSW encourages doctoral students from all disciplines in computer science to submit a paper.
+
+### The ICCSW’17 workshop offers:
 
 * A traditional track, featuring:
+  * Technical papers focused on current topics in computer science and describing (preliminary) research results
+  * Tool papers describing the design, functionality and applicability of a software tool.
+* An abstract track, for students who want to present initial unpublished work and results.
+* A poster session to display the work submitted as paper or abstract.
 
-    * Technical papers focused on current topics in computer science
 
-    * Tool papers describing the design, functionality and applicability of a software tool
-
-* A survey track, featuring papers that synthesise the state of the art in a particular topic of computer science
-
+---
 Areas of interest for the workshop cover all fields of research in computer science, including (but not limited to) the following:
 
 |       						      |            					      | 		  	                      |
@@ -37,30 +32,34 @@ Areas of interest for the workshop cover all fields of research in computer scie
 
 #### IMPORTANT DATES
 
-* Abstract due: **Friday 5th June 2015, 23:59:59 BST**
-* Paper submission due: **Friday 12th June 2015, 23:59:59 BST**
-* Reviews due: **Friday 3rd July 2015, 23:59:59 BST**
-* Acceptance notification: **Wednesday 8th July 2015**
-* Final paper deadline: **Friday 24th July, 2015**
-* Workshop: **Thursday 24th September - Friday 25th September, 2015**
+* Abstract submission: **July 1st, 2017**
+* Paper submission: **July 1st, 2017**
+* Abstract and paper notification: **August 1st, 2017**
+* Paper camera ready: **August 15th, 2017**
+* Poster submission: **August 21th, 2017**
+* Workshop: **September 26th and 27th, 2017**
 
 ---
 
 #### SUBMISSION
 
-Page limits:
+Papers must be written in English, within page limits, and using the OASIcs template — please read carefully the typesetting instructions.
 
-- 7 pages for technical and survey papers, excluding references, OASIcs format.
+Page limits are as follows:
 
-- 5 pages for tool papers, excluding references, [OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz).
+* Traditional track: up to 8 pages, excluding references and clearly marked appendices.
+* Abstract track: up to 2 pages, including references. No appendices allowed.
+* Poster session: A1 size.
 
-The main criterion for evaluating the submissions will be originality. Papers based on previous published work will be considered only if they include a footnote to the title specifying the previously published work. In addition, a short appendix describing changes from the published paper can be submitted (optionally) to help the reviewing.
+Papers must be submitted through [EasyChair](https://easychair.org/conferences/?conf=iccsw17). Instructions for poster submissions will be sent to ICCSW authors later.
 
-For each submitted paper, the authors will be required to review two or three papers, not necessarily related to the topic of their immediate expertise. To ensure reviews are objective and meet academic standards the steering committee will read all the reviews prior to their release.
+All accepted papers of ICCSW’s traditional track will (optionally) be published in the OpenAccess Series in Informatics by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)). If requested, accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'17.
 
-All accepted technical, survey and tools papers of ICCSW’15 will be published in the OpenAccess Series in Informatics (OASIcs) by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)). Authors of accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'15. It is expected that one of the paper authors (a doctoral student) will attend the workshop and present their work.
+At least one of the paper’s authors (student) must attend the workshop and present the work.
 
-Submission of papers should be done via EasyChair at http://www.easychair.org/conferences/?conf=iccsw15.
+Each participant who submits a paper is required to review at least two other papers, not necessarily related to their field of expertise. To ensure reviews are objective and meet academic standards, the steering committee will read all reviews prior to their release.
+
+Submission of papers should be done via EasyChair at https://easychair.org/conferences/?conf=iccsw17.
 
 ---
 
@@ -76,9 +75,4 @@ Registration is free of charge for all students. Some student bursaries, funded 
 
 To contact workshop organisers with any questions, please email [iccsw@imperial.ac.uk](mailto:iccsw@imperial.ac.uk)
 
-<div align="right">_- ICCSW’15 Steering Committee_</div>
-
-
-
-
-
+<div align="right">_- ICCSW’17 Steering Committee_</div>

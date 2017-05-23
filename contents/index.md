@@ -1,17 +1,18 @@
 ---
-title: 2015 Imperial College Computing Student Workshop
+title: 2017 Imperial College Computing Student Workshop
 template: index.jade
 ---
-The 2015 Imperial College Computing Student Workshop aims to provide an
+The 2017 Imperial College Computing Student Workshop aims to provide an
 international forum for doctoral students to discuss a range of topics
 that are current in computer science research. The workshop welcomes all
 research students in the field of computer science.
 
 Following the success of the first four editions of the
-workshop&mdash;[ICCSW'15](http://iccsw.doc.ic.ac.uk/2015), [ICCSW'14](http://iccsw.doc.ic.ac.uk/2014),
+workshop&mdash;[ICCSW'15](http://iccsw.doc.ic.ac.uk/2015),
+[ICCSW'14](http://iccsw.doc.ic.ac.uk/2014),
 [ICCSW'13](http://iccsw.doc.ic.ac.uk/2013),
 [ICCSW'12](http://iccsw.doc.ic.ac.uk/2012) and
-[ICCSW'11](http://iccsw.doc.ic.ac.uk/2011)&mdash;the fifth workshop
+[ICCSW'11](http://iccsw.doc.ic.ac.uk/2011)&mdash;the sixth workshop
 provides an excellent opportunity to share provocative ideas,
 interesting preliminary work, or a cool research directions that may
 change the world.
@@ -30,21 +31,19 @@ The workshop aims to:
 The workshop provides an excellent ground for discussing similarities
 and differences in graduate studies at various institutions around the
 world. All doctoral students are thereby encouraged to submit papers
-covering their ongoing research. The fifth edition of the workshop is
+covering their ongoing research. The sixth edition of the workshop is
 currently being planned.
 
-# Proceedings
+The proceedings will be published as an [OpenAccess Series in Informatics](http://www.dagstuhl.de/en/publications/oasics) volume.
 
-The proceedings are published as an [OpenAccess Series in Informatics](http://www.dagstuhl.de/en/publications/oasics) volume, [OASICS Vol. 49](http://drops.dagstuhl.de/portals/oasics/index.php?semnr=15016).
+<!-- # Prize Winners
 
-# Prize Winners
-
-* Best Paper: **Evgenij Belikov**
-* Best Presentation: **F. Sharmila Satthar**
-* Best Reviewer: **Christof Spanring**
+* Best Paper:
+* Best Presentation:
+* Best Reviewer:  -->
 
 ---
-<div class="row" style="text-align: center;background-color:#174D80;padding:5px;">
+<!-- <div class="row" style="text-align: center;background-color:#174D80;padding:5px;">
 	<h2 style="font-weight: bold;color:#FFF;margin:0px;">
 		2015 ICCSW Keynote speakers:
 	</h1>
@@ -53,24 +52,16 @@ The proceedings are published as an [OpenAccess Series in Informatics](http://ww
 	<h3 style="font-style: italic;">
 		[Chris DiBona (Google)](https://sites.google.com/a/dibona.com/www/) and [Erik Mueller (MIT)](http://xenia.media.mit.edu/~mueller/)
 	</h3>
-</div>
+</div> -->
 
 
 ---
 
-### Platinum Sponsors
+### Sponsors
 
 <div class="row" style="text-align: center;">
 <a href="http://www.google.com/about/corporate/company/">
   <img src="img/google.png" style="height: 40px; margin: 1em;" alt="Google">
-</a>
-</div>
-
-### Bronze Sponsors
-
-<div class="row" style="text-align: center;">
-<a href="http://www.arm.com/about/our-story/index.php">
-  <img src="img/arm.png" style="height: 40px; margin: 1em;" alt="Google">
 </a>
 </div>
 

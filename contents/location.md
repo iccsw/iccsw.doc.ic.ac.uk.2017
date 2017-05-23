@@ -3,13 +3,11 @@ title: Location
 template: page.jade
 ---
 
-All workshop events takes place at at 58 Princes Gate in the ["Ballroom".](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/58pg). However, the keynote talks take place in  Lecture Theatre 3 in the Blackett Building.
+All workshop events takes place in the Huxley building at 180 Queen's Gate, SW7 2AZ. Rooms to be announced.
 
 
-
-<iframe src="https://www.google.com/maps/d/embed?mid=zYEjZyEZ3Q8M.kCiw0XKfNWG4" width="740" height="320" frameborder="0" scrolling="no"
-marginheight="0" marginwidth="0" ></iframe>
-<br /><small>View <a href="https://www.google.com/maps/d/embed?mid=zYEjZyEZ3Q8M.kCiw0XKfNWG4" style="color:#0000FF;text-align:left">ICCSW'15</a> in a larger map</small>
+<iframe src="https://www.google.com/maps/d/embed?mid=1wcFZOFjE8pElkASweKHdcIBNlb0" width="740" height="320" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<br /><small>View <a href="https://www.google.com/maps/d/embed?mid=1wcFZOFjE8pElkASweKHdcIBNlb0" style="color:#0000FF;text-align:left">ICCSW'17</a> in a larger map</small>
 
 Located in the center of London, South Kensignton Campus is well served
 by a public transport.
@@ -64,9 +62,9 @@ London bus map](http://www.tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/ce
 From South Kensington station either follow the subway signposted to the
 museums or walk north up Exhibition Road. The main entrance to the
 College is just past the Science Museum. To get to the  58 Princes Gate turn to the
-right on the Exhibition Road opposite of Imperial College London Business School. For 
+right on the Exhibition Road opposite of Imperial College London Business School. For
 the Blackett Building from the main entrance go through the main entrance and follow the elevated walkway
-to the far end; this enters the building on level 3 of Huxley Building. Turn right, and follow the 
+to the far end; this enters the building on level 3 of Huxley Building. Turn right, and follow the
 corridor to the end to arrive at LT3 of Blackett Build. From Gloucester
 Road station walk north up Gloucester Road and turn right at Queen's
 Gate Terrace; the entrance to the Department is opposite the end of

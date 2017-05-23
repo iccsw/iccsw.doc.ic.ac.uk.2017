@@ -3,7 +3,8 @@ title: Keynotes
 template: page.jade
 ---
 
-
+### To be announced
+<!--
 <div class="row" style="text-align: center;background-color:#174D80;padding:20px;">
 	<h2 style="font-weight: bold;color:#FFF;margin:0px;">
 		Going Beyond Fact-Based Question Answering
@@ -84,7 +85,7 @@ The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00 o
 	<div class="col-md-12">
   In this talk Chris DiBona will review Google’s use of open source projects and the history of prominent releases like Android, Chromium, Angular.js and some 3500 other projects (though not all of them will be surveyed!). Keeping such releases on track and efficient and , in some cases, retiring them has been his focus since he started at the company. He’ll review the various ways Google supports the worldwide community of software developers that it has derived so much value from.
 
-Specifically for the students assembled, Mr. DiBona will also talk about the university oriented program “The Summer of Code” which is designed to lure students into open source projects and provide for them the real world mentorship they need to become open source committers themselves. A paid internship that lasts approximately 3 months during the summer months, The Summer of Code has introduced over 10,000 developers in 123 countries to open source software development and added over 30 million lines of code to open source projects that Google and the students use every day of their lives. 
+Specifically for the students assembled, Mr. DiBona will also talk about the university oriented program “The Summer of Code” which is designed to lure students into open source projects and provide for them the real world mentorship they need to become open source committers themselves. A paid internship that lasts approximately 3 months during the summer months, The Summer of Code has introduced over 10,000 developers in 123 countries to open source software development and added over 30 million lines of code to open source projects that Google and the students use every day of their lives.
 	</div>
     <center>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Y89fJyMyZDU" frameborder="0" allowfullscreen></iframe>
@@ -117,11 +118,6 @@ The keynote will take place at Lecture Theatre 3 of Blackett Building at 14:00 o
 			 <img src="img/ChrisDiBona.jpg" width="200px" alt="ChrisDiBona"/>
 		</div>
 	</div>
-</div>
+</div> -->
 
 ---
-
-
-
-
-

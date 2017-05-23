@@ -3,16 +3,16 @@ title: FAQ
 template: page.jade
 ---
 
-__How will the proceedings of ICCSW'15 be published?__
+__How will the proceedings of ICCSW'17 be published?__
 
 The proceedings will be published as an open-access volume in the
 [OpenAccess Series in Informatics
 (OASIcs)](http://www.dagstuhl.de/en/publications/oasics) published by [Schloss Dagstuhl](http://www.dagstuhl.de/en/).
 
-Authors of accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW’15. 
+Authors of accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW’17.
 
 __What rights will I retain as an author after publishing my paper at
-ICCSW'15?__
+ICCSW'17?__
 
 All articles published in OASIcs are licensed under a Creative Commons
 licence. This allows for the original authors to retain the copyright of
@@ -45,4 +45,4 @@ appeared in the proceedings of ABC~\cite{MyPaper}.}}
 
 Optionally you can include a short appendix, explaining the difference between
 the previous and work being submitted if you think an explanation  will aid the decision
-making process of the reviewers. 
+making process of the reviewers.
