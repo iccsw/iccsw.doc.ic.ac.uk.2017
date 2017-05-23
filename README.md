@@ -1,4 +1,4 @@
-# iccsw.doc.ic.ac.uk/2015
+# iccsw.doc.ic.ac.uk/2017
 
 Powered by [Node.js](http://nodejs.org/) and
 [Wintersmith](http://jnordberg.github.com/wintersmith/).
@@ -10,10 +10,15 @@ Powered by [Node.js](http://nodejs.org/) and
 Install NodeJS then run the following in root of the source tree.
 
 ```
-$ npm install
+$ npm install --no-optional
 ```
 This will read the ``package.json`` file and install the required
 dependencies locally into a ``node_modules`` folder.
+
+Install grunt globally
+```
+$ npm install -g grunt-cli
+```
 
 ## Testing
 

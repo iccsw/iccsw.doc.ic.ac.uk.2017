@@ -66,7 +66,7 @@ module.exports = function(grunt) {
       production: {
         options: {
           src: "build/",
-          dest: "/vol/www-virtual/iccsw/2015",
+          dest: "/vol/www-virtual/iccsw/2017",
           host: "gituser.doc.ic.ac.uk"
         }
       }

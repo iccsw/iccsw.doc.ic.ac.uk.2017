@@ -1,14 +1,14 @@
 {
   "locals": {
-    "url": "http://iccsw.doc.ic.ac.uk/2015",
-    "name": "ICCSW'15",
+    "url": "http://iccsw.doc.ic.ac.uk/2017",
+    "name": "ICCSW'17",
     "owner": "Imperial College Computing Student Workshop, Imperial College London",
-    "description": "2015 Imperial College Computing Student Workshop"
+    "description": "2017 Imperial College Computing Student Workshop"
   },
   "plugins": [
     "wintersmith-less"
   ],
-  "baseUrl": "/2015",
+  "baseUrl": "/2017",
   "require": {
     "moment": "moment",
     "_": "underscore",

@@ -9,10 +9,10 @@ html(lang='en')
       title
         block title
           = locals.name
-      link(rel='stylesheet', href='/2015/css/bootstrap.css')
-      link(rel='stylesheet', href='/2015/css/ss-social.css')
-      link(rel='stylesheet', href='/2015/css/app.css')
-      link(rel='stylesheet', href='/2015/css/ICCSW15.css')
+      link(rel='stylesheet', href='/2017/css/bootstrap.css')
+      link(rel='stylesheet', href='/2017/css/ss-social.css')
+      link(rel='stylesheet', href='/2017/css/app.css')
+      link(rel='stylesheet', href='/2017/css/ICCSW17.css')
       <!--[if lt IE 9]>
       script(src='/js/html5shiv.js')
       <![endif]-->
@@ -26,22 +26,22 @@ html(lang='en')
             span.icon-bar
             span.icon-bar
             span.icon-bar
-          a.navbar-brand(href='/2015/', title=locals.name, rel='home')
-            img(alt=locals.name, height=25, src='/2015/img/logo.png')
+          a.navbar-brand(href='/2017/', title=locals.name, rel='home')
+            img(alt=locals.name, height=25, src='/2017/img/logo.png')
         .collapse.navbar-collapse.nav-collapse
           include menu
           ul.nav.navbar-nav
-            +menu('Call for Papers', '/2015/cfp.html')
-            +menu('FAQ', '/2015/faq.html')
-            +menu('Keynotes', '/2015/keynotes.html')
-            +menu('Location', '/2015/location.html')
-            +menu('Programme', '/2015/programme.html')
-            +menu('Organisation', '/2015/organisation.html')
-            +menu('Registration', '/2015/registration.html')
+            +menu('Call for Papers', '/2017/cfp.html')
+            +menu('FAQ', '/2017/faq.html')
+            +menu('Keynotes', '/2017/keynotes.html')
+            +menu('Location', '/2017/location.html')
+            +menu('Programme', '/2017/programme.html')
+            +menu('Organisation', '/2017/organisation.html')
+            +menu('Registration', '/2017/registration.html')
     .container
       header.subhead
         a(href=locals.url)
-          img(alt=locals.name, src='/2015/img/queens-tower.jpg')
+          img(alt=locals.name, src='/2017/img/queens-tower.jpg')
         block subhead
       section.content
         block content
@@ -52,7 +52,7 @@ html(lang='en')
             ul.services.list-unstyled
               // FIXME: Decide what do with the accounts
                   li.twitter
-                    a.ss-icon.ss-social-circle.ss-twitter(href='https://twitter.com/iccsw2015')
+                    a.ss-icon.ss-social-circle.ss-twitter(href='https://twitter.com/iccsw2017')
               li.facebook
                 a.ss-icon.ss-social-circle.ss-facebook(href='https://www.facebook.com/groups/iccsw/')
               li.octocat
@@ -60,8 +60,8 @@ html(lang='en')
               //li.linkedin
               //  a.ss-icon.ss-social-circle.ss-linkedin(href='http://www.linkedin.com/groups/ICCSW-14-5128593')
           p.credit
-            Copyright &copy; 2015 
+            Copyright &copy; 2017
             a(href='http://acm.doc.ic.ac.uk/') Imperial College London ACM Student Chapter
     script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js')
-    script(src='/2015/js/bootstrap.js')
-    script(src='/2015/js/app.js')
+    script(src='/2017/js/bootstrap.js')
+    script(src='/2017/js/app.js')
