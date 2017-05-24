@@ -14,6 +14,7 @@ template: page.jade
 * [Pamela Bezerra](http://wp.doc.ic.ac.uk/aese/person/pamela/)
 * Oana Cocarascu
 * Nick Pawlowski
+
 ## Ambassadors
 
 Interested in being a 2017 Imperial College Computing Student Workshop
