@@ -24,8 +24,8 @@ ambassador at your institution? Please contact
 
 
 
-## Promotional Material
+<!-- ## Promotional Material
 You can find the PDF versions of the promotional materials below.
 * [Poster](promotionalM/poster.pdf)
 * [Brochure](promotionalM/brochure.pdf)
-* [Flyer](promotionalM/flyer.pdf)
+* [Flyer](promotionalM/flyer.pdf) -->
