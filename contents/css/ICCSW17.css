@@ -1,5 +1,24 @@
+
 .navbar {
-	background-color:#174D80;
+	background-color: #174D80;
+}
+
+a.navbar-brand.iccsw-brand {
+	font-family: 'Khula', sans-serif;
+	color:white;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: -1px;
+}
+
+span.iccsw-brand-num {
+	font-family: 'Khula', sans-serif;
+	display: inline-block;
+	background-color: white;
+	height: 22px;
+	padding: 5px 0px 0px 0px;
+	margin-left: 1px;
+	color: #174D80;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
@@ -11,6 +30,7 @@
 
 .navbar-collapse.nav-collapse > ul > li > a {
 	  color: #fff;
+		font-weight: 500;
 }
 
 .navbar-inverse
@@ -28,4 +48,3 @@
 	font-size: 40px;
 	font-weight: bold;
 }
-
