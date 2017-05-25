@@ -5,14 +5,15 @@ template: page.jade
 
 ## Steering Committee
 
-* Assel Altayeva
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/)
 * [Fergus Leahy](http://fergusleahy.co.uk/)
 * [Kyriacos Nikiforou](http://www.doc.ic.ac.uk/~kn910/)
 * [Simon Olofsson](https://www.doc.ic.ac.uk/~so2015/)
 * [Mengjiao Wang](https://ibug.doc.ic.ac.uk/people/mwang)
 * [Pamela Bezerra](http://wp.doc.ic.ac.uk/aese/person/pamela/)
+* [Shale Xiong](http://www.doc.ic.ac.uk/~sx14/)
 * Oana Cocarascu
+* Assel Altayeva
 * Nick Pawlowski
 
 ## Ambassadors

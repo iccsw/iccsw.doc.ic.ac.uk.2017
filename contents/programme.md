@@ -5,7 +5,9 @@ template: page.jade
 
 All workshop events takes place at at 180 Queens Gate in the Huxley Building.
 
----
+More information coming soon...
+
+<!-- --- -->
 <!-- ##Thursday, 24th September
 
 * **08:45 - 09:20**	Registration

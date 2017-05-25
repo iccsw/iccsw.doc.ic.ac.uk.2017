@@ -21,12 +21,12 @@ While most conferences and workshops in academia solely cater for specific resea
 ---
 Areas of interest for the workshop cover all fields of research in computer science, including (but not limited to) the following:
 
-|       						      |            					      | 		  	                      |
-|-------------------------------------|-----------------------------------|-----------------------------------|
-| - Computer Systems                  | - Programming Languages           | - Verification and Model Checking |
-| - Databases                         | - Computational Modellin          | - Machine Learning                |
-| - Logic and Artificial Intelligence | - Software Engineering            | - Computer Graphics               |
-| - Networks and Communications       | - Theory of Computational Systems |                                   |
+|       						                   |            					             | 		  	                         |
+|--------------------------------------|-----------------------------------|-----------------------------------|
+| Computer Systems                     | Programming Languages             | Verification and Model Checking |
+| Databases                            | Computational Modellin            | Machine Learning                |
+| Logic and Artificial Intelligence    | Software Engineering              | Computer Graphics               |
+| Networks and Communications          | Theory of Computational Systems   |                                   |
 
 ---
 
@@ -51,15 +51,13 @@ Page limits are as follows:
 * Abstract track: up to 2 pages, including references. No appendices allowed.
 * Poster session: A1 size.
 
-Papers must be submitted through [EasyChair](https://easychair.org/conferences/?conf=iccsw17). Instructions for poster submissions will be sent to ICCSW authors later.
-
 All accepted papers of ICCSW’s traditional track will (optionally) be published in the OpenAccess Series in Informatics by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)). If requested, accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'17.
 
 At least one of the paper’s authors (student) must attend the workshop and present the work.
 
 Each participant who submits a paper is required to review at least two other papers, not necessarily related to their field of expertise. To ensure reviews are objective and meet academic standards, the steering committee will read all reviews prior to their release.
 
-Submission of papers should be done via EasyChair at https://easychair.org/conferences/?conf=iccsw17.
+All submission of papers and abstracts should be done via EasyChair at https://easychair.org/conferences/?conf=iccsw17.
 
 ---
 
@@ -74,5 +72,3 @@ The local steering committee consists of members of the Imperial College London 
 Registration is free of charge for all students. Some student bursaries, funded by industrial sponsors, will be made available to students with submissions accepted in the workshop. We aim to provide financial support for students who otherwise would be unable to attend.
 
 To contact workshop organisers with any questions, please email [iccsw@imperial.ac.uk](mailto:iccsw@imperial.ac.uk)
-
-<div align="right">_- ICCSW’17 Steering Committee_</div>

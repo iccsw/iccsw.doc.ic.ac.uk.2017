@@ -42,7 +42,7 @@ The proceedings will be published as an [OpenAccess Series in Informatics](http:
 * Best Presentation:
 * Best Reviewer:  -->
 
----
+<!-- --- -->
 <!-- <div class="row" style="text-align: center;background-color:#174D80;padding:5px;">
 	<h2 style="font-weight: bold;color:#FFF;margin:0px;">
 		2015 ICCSW Keynote speakers:
