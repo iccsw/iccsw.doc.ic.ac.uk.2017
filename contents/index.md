@@ -61,7 +61,7 @@ The proceedings will be published as an [OpenAccess Series in Informatics](http:
 
 <div class="row" style="text-align: center;">
 <a href="http://www.google.com/about/corporate/company/">
-  <img src="img/google.png" style="height: 40px; margin: 1em;" alt="Google">
+  <img src="img/google.png" style="height: 50px; margin: 1em;" alt="Google">
 </a>
 </div>
 
@@ -69,11 +69,11 @@ The proceedings will be published as an [OpenAccess Series in Informatics](http:
 ### Supporters
 <div class="row" style="text-align: center;">
 <a href="http://www.imperial.ac.uk/">
-  <img src="img/icl.png" style="height: 40px; margin:
+  <img src="img/icl.png" style="height: 50px; margin:
 1em;" alt="Imperial College London"/>
 </a>
 <a href="http://www.dagstuhl.de/en/publications/oasics">
-  <img src="img/oasics.png"  style="height: 40px;
+  <img src="img/oasics.png"  style="height: 50px;
 margin: 1em;" alt="OASIcs"/>
 </a>
 </div>
