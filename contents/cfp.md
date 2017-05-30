@@ -23,9 +23,9 @@ Areas of interest for the workshop cover all fields of research in computer scie
 
 |       						                   |            					             | 		  	                         |
 |--------------------------------------|-----------------------------------|-----------------------------------|
-| Computer Systems                     | Programming Languages             | Verification and Model Checking |
-| Databases                            | Computational Modellin            | Machine Learning                |
-| Logic and Artificial Intelligence    | Software Engineering              | Computer Graphics               |
+| Computer Systems                     | Programming Languages             | Verification and Model Checking   |
+| Databases                            | Computational Modelling           | Machine Learning                  |
+| Logic and Artificial Intelligence    | Software Engineering              | Computer Graphics                 |
 | Networks and Communications          | Theory of Computational Systems   |                                   |
 
 ---
@@ -36,7 +36,7 @@ Areas of interest for the workshop cover all fields of research in computer scie
 * Paper submission: **July 1st, 2017**
 * Abstract and paper notification: **August 1st, 2017**
 * Paper camera ready: **August 15th, 2017**
-* Poster submission: **August 21th, 2017**
+* Poster submission: **August 21st, 2017**
 * Workshop: **September 26th and 27th, 2017**
 
 ---
@@ -51,7 +51,7 @@ Page limits are as follows:
 * Abstract track: up to 2 pages, including references. No appendices allowed.
 * Poster session: A1 size.
 
-All accepted papers of ICCSW’s traditional track will (optionally) be published in the OpenAccess Series in Informatics by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)). If requested, accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'17.
+All accepted papers of ICCSW’s traditional track will (*__optionally__*) be published in the OpenAccess Series in Informatics by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)). If requested, accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'17.
 
 At least one of the paper’s authors (student) must attend the workshop and present the work.
 

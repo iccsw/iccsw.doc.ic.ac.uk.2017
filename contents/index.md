@@ -60,10 +60,15 @@ The proceedings will be published as an [OpenAccess Series in Informatics](http:
 ### Sponsors
 
 <div class="row" style="text-align: center;">
-<a href="http://www.google.com/about/corporate/company/">
+<a href="http://www.google.com/about/">
   <img src="img/google.png" style="height: 50px; margin: 1em;" alt="Google">
 </a>
+<a href="http://wp.doc.ic.ac.uk/hipeds/">
+  <img src="img/hipeds.png" style="height: 50px; margin: 1em;" alt="HiPEDS">
+</a>
 </div>
+
+
 
 
 ### Supporters
