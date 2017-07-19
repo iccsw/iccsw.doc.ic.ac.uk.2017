@@ -3,6 +3,10 @@ title: Call for Papers
 template: page.jade
 ---
 
+DEADLINE EXTENDED JULY 8th
+-----------
+
+-----
 The 6th Imperial College Computing Student Workshop (ICCSW) aims to provide an international forum for doctoral students in computing, a workshop for students, by students!
 
 Over the past six years, ICCSW has been established as a high quality student-run international academic event in Europe. Both organisers and participants are doctoral students from the United Kingdom and other countries. The workshop is an opportunity to both publish and discuss new research, including work-in-progress, and network with peers from other institutions.
@@ -15,7 +19,7 @@ While most conferences and workshops in academia solely cater for specific resea
   * Technical papers focused on current topics in computer science and describing (preliminary) research results
   * Tool papers describing the design, functionality and applicability of a software tool.
 * An abstract track, for students who want to present initial unpublished work and results.
-* A poster session to display the work submitted as paper or abstract.
+* A poster session to display the work submitted as a paper or abstract.
 
 
 ---
@@ -32,8 +36,8 @@ Areas of interest for the workshop cover all fields of research in computer scie
 
 #### IMPORTANT DATES
 
-* Abstract submission: **July 1st, 2017**
-* Paper submission: **July 1st, 2017**
+* Abstract submission: ~~July 1st, 2017~~ **July 8th, 2017**
+* Paper submission: ~~July 1st, 2017~~ **July 8th, 2017**
 * Abstract and paper notification: **August 1st, 2017**
 * Paper camera ready: **August 15th, 2017**
 * Poster submission: **August 21st, 2017**
@@ -51,13 +55,15 @@ Page limits are as follows:
 * Abstract track: up to 2 pages, including references. No appendices allowed.
 * Poster session: A1 size.
 
-All accepted papers of ICCSW’s traditional track will (*__optionally__*) be published in the OpenAccess Series in Informatics by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)). If requested, accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'17.
+All accepted papers of ICCSW’s traditional track will (*__optionally__*) be published in the OpenAccess Series in Informatics by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics-v2016/oasics-v2016-authors.tgz)). If requested, accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'17.
 
 At least one of the paper’s authors (student) must attend the workshop and present the work.
 
 Each participant who submits a paper is required to review at least two other papers, not necessarily related to their field of expertise. To ensure reviews are objective and meet academic standards, the steering committee will read all reviews prior to their release.
 
 All submission of papers and abstracts should be done via EasyChair at https://easychair.org/conferences/?conf=iccsw17.
+
+
 
 ---
 

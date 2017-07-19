@@ -2,6 +2,10 @@
 title: 2017 Imperial College Computing Student Workshop
 template: index.jade
 ---
+Student Registration Opened
+-----
+
+----------
 The 2017 Imperial College Computing Student Workshop aims to provide an
 international forum for doctoral students to discuss a range of topics
 that are current in computer science research. The workshop welcomes all

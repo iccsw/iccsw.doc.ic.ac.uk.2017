@@ -58,7 +58,7 @@ module.exports = function(grunt) {
     },
     rsync: {
       options: {
-        args: ["--chmod=D2775,F0664"],
+        // args: ["--chmod=D2775,F0664"],
         exclude: [".git*","*.less","node_modules"],
         recursive: true,
         ssh: true
@@ -67,7 +67,7 @@ module.exports = function(grunt) {
         options: {
           src: "build/",
           dest: "/vol/www-virtual/iccsw/2017",
-          host: "gituser.doc.ic.ac.uk"
+          host: "fwl14@gituser.doc.ic.ac.uk"
         }
       }
     },

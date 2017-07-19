@@ -15,7 +15,7 @@ template: page.jade
 * Oana Cocarascu
 * Assel Altayeva
 * Nick Pawlowski
-* (Casper da Costa-Luis](https://caspersci.uk.to)
+* [Casper da Costa-Luis](https://caspersci.uk.to)
 
 ## Ambassadors
 
