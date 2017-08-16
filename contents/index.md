@@ -2,8 +2,21 @@
 title: 2017 Imperial College Computing Student Workshop
 template: index.jade
 ---
-Student Registration Opened
+Call for Posters and Registration
 -----
+This year at ICCSW’17 we’re hosting a student poster session and would love to see **_your work_**!
+
+Whether you’re just about to survive your first year or driving for the finish, ICCSW’17 is the place to present and show off your ~~constantly evolving it’s-not-ready-yet-work-in-progress~~ masterpiece.
+
+Some vital info:
+
+☑️ We are open to all fields in Computing from all cohorts.  
+☝️ The only requirement is: poster_size = A1;  
+‼️ Deadline is 31st August.  
+🤑 Cough*Wewillpayforprinting*Cough.  
+🍕 There will be food.  
+🏆 There will also be prizes.  
+🎯 Submit [*here*](https://easychair.org/conferences/?conf=iccsw17)
 
 ----------
 The 2017 Imperial College Computing Student Workshop aims to provide an

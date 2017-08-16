@@ -24,8 +24,19 @@ ambassador at your institution? Please contact
 [iccsw@imperial.ac.uk](mailto:iccsw@imperial.ac.uk).
 
 ### Current Ambassadors
-
-
+A massive thanks to our ambassadors!
+* Jasper Schulz
+* Fabio Niephaus
+* Kiko Fernandez
+* Phuc Vo
+* Daniel Hillerstrom
+* Kim-Anh Tran
+* Stephan McQuistin
+* Marija Jegorova
+* Dionysis Manousakas
+* Ana-Maria Sutii
+* Tatjana Davidovic
+* Darren Matthews
 
 <!-- ## Promotional Material
 You can find the PDF versions of the promotional materials below.
