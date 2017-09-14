@@ -2,6 +2,26 @@
 title: 2017 Imperial College Computing Student Workshop
 template: index.jade
 ---
+Register now!
+-----
+We are proud to announce that the Imperial College Computing Student Workshop (ICCSW) is back this year!
+
+This year, thanks to our wonderful sponsors **Google and Imperial College HiPEDs**, we will be hosting two days of student talks, including a poster session, 2 keynotes and a social night.
+
+What you need to know:
+
+📅 26th - 27th Sept, starting at 10AM.  
+🎤 Student talks on a variety of Computing topics.  
+✨ Student Poster session breakfast  🥐     
+🔑 2 great keynotes:  
+&nbsp;&nbsp;👉 Optimising the unoptimisable - The V8 JavaScript Engine, Leszek Swirski from Google.  
+&nbsp;&nbsp;👉 How to write a great paper, Simon Peyton Jones from Microsoft Research  
+🍴 Student Social event and dinner on evening of 26th Sept.  
+🍕 Free lunches and social dinner for registered attendees.  
+🎯 Register now here: https://iccsw17.eventbrite.com  
+❗ Why haven't you registered yet -  it's free, go register now!  
+
+---
 Call for Posters and Registration
 -----
 This year at ICCSW’17 we’re hosting a student poster session and would love to see **_your work_**!
@@ -12,7 +32,7 @@ Some vital info:
 
 ☑️ We are open to all fields in Computing from all cohorts.  
 ☝️ The only requirement is: poster_size = A1;  
-‼️ Deadline is 31st August.  
+‼️ Deadline is 20th September.  
 🤑 Cough*Wewillpayforprinting*Cough.  
 🍕 There will be food.  
 🏆 There will also be prizes.  

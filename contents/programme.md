@@ -3,66 +3,56 @@ title: Programme
 template: page.jade
 ---
 
-All workshop events takes place at at 180 Queens Gate in the Huxley Building.
+All workshop events will take place at 180 Queens Gate in the Huxley Building, Imperial College.
 
-More information coming soon...
+## Tuesday, 26th September
 
-<!-- --- -->
-<!-- ##Thursday, 24th September
+* **09:00 - 10:00**	Registration
+* **10:00 - 10:20**	Welcome
 
-* **08:45 - 09:20**	Registration
-* **09:20 - 09:40**	Welcome
+<!-- (**Chair:**) -->
+Programming Languages
+* **10:20 - 11:00**	**Kjell Winblad:** Faster Concurrent Range Queries with Contention Adapting Search Trees Using Immutable Data
 
-Computer Vision (**Chair:** Fahdi Kanavati)
-* **09:40 - 10:20**	**Julius Schöning:** Interactive 3D Reconstruction: New Opportunities For Getting CAD-ready Models
+* **11:00** - **11:30** Tea and Coffee Break
 
-* **10:20** - **10:50**	Coffee Break
+* **11:30** - **12:10**	**Claudia Cauli:** Equivalence of Probabilistic μ-Calculus and p-Automata
 
-Computing in Medicine (**Chair:** Kristijonas Cyras)
-* **10:50** - **11:30**	**António Silva, Tiago Oliveira, Paulo Novais and Jose Neves:** Representing Temporal Patterns in Computer-Interpretable Clinical Guidelines  
-* **11:30** - **12:10**	**Jian Zhang:** Automatic Transformation of Raw Clinical Data into Clean Data Using Decision Tree Learning Combining with String Similarity
-* **12:10** - **13:45**	Lunch Break
+Lunch Break **12:10** - **13:45**
 
-Keynote (**Chair:** Feryal Behbahani)
+Keynote
 
+* **14:00** - **15:00**	Keynote: [**Leszek Swirski**](/2017/keynotes.html) Optimizing the unoptimizable - A whirlwind tour of the V8 Javascript engine.
 
-* **14:00** - **15:00**	Keynote: [**Chris DiBona**](/2015/keynotes.html) Google and Open Source (LT3 Blackett Building)
+Tea and Coffee Break  **15:00** - **15:30**
 
-* **15:15** - **15:35**	Coffee Break
-
-Model Checking (**Chair:** Dan Liew)
-* **15:35** - **16:15** **Agnieszka Zbrzezny and Andrzej Zbrzezny:**	Checking WECTLK Properties of Timed Real-Weighted Interpreted Systems via SMT-based Bounded Model Checking
-
-Social Event **1815 - 1030**. Thames boat trip and dinner. Meet at 1700 by 58 Princes Gate.
+Cloud and Networking
+* **15:30** - **16:10** **Ibrahim El-Sanosi:**	Improving the Latency and Throughput of ZooKeeper Atomic Broadcast
+* **16:10** - **16:30** **Marco Capuccini:**  KubeNow: a cloud agnostic platform for microservice-oriented applications
+Social Event **1700 - 2130**. Mystery social event and dinner...
 
 ---
 
-##Friday, 25th September
+## Wedsnesday, 27th September
 
-* **08:45** - **09:00**	Registration
+* **09:00** - **09:30**	Registration
 
-Natural Language Processing (**Chair:** Casper da Costa-Luis)
-* **09:00** - **09:40**	**Fathima Sharmila Satthar:** Modelling SO-CAL in an Inheritance-based Sentiment Analysis Framework
-* **09:40** - **10:20**	**Carlos Alex Sander Juvencio Gulo, Thiago R. P. M. Rubio, Shazia Tabassum and Simone Das Graças Domingues Prado:** Mining Scientific Articles powered by Machine Learning Techniques
+Breakfast Poster Session
+* **09:30** - **11:00** Poster Session
 
-* **10:20** - **10:50**	Coffee Break
+Morning Session: Machine Learning
+* **11:00** - **11:40**	**Veronica Tozzo:** M Hey there’s DALILA: a DictionAry LearnIng LibrAry
+* **11:40** - **12:20**	**John Stamford:** Discriminative and Generative models for clinical risk estimation: An empirical comparison
 
-Knowledge Representation and Reasoning (**Chair:** Claudia Schulz)
-* **10:50** - **11:30** **Evgenios Hadjisoteriou:**	Computing Argumentation Extensions with Matrices
-* **11:30** - **12:10** **Christof Spanring:** Hunt for the Collapse of Semantics in Infinite Abstract Argumentation Frameworks  
-* **12:10** - **13:45**	Lunch Break
+Lunch Break **12:20** - **13:45**
 
-Keynote (**Chair:** Claudia Schulz)
+Keynote
 
-* **14:00** - **15:00**	Keynote: [**Erik Mueller**](/2015/keynotes.html) Going Beyond Fact-Based Question Answering (LT3 Blackett Building)
+* **14:00** - **15:00**	Keynote: [**Simon Peyton Jones**](/2017/keynotes.html) How to write a great paper.
 
-* **15:15** - **15:40**	Coffee Break
+Tea and Coffee Break **15:00** - **15:30**
 
-Surveys of different areas in Computing (**Chair:** Martin Ingram)
-* **15:40** - **16:20**	**Evgenij Belikov:** Language Runtime Systems: An Overview  
-* **16:20** - **17:00**	**Hasmik Osipyan, Martin Krulis and Stephane Marchand-Maillet:** Adaptation of Multidimensional Scaling on GPU Architectures: A Survey
-* **17:00** - **17:40**	**Khaled El-Abbasy, Anastassia Angelopoulou and Tony Towell:** Affective Computing to enhance E-Learning in Segregated Societies  
-
-* **17:40** - **18:00** 	Closing Remarks & Prizes
-
-Social Event **1830 - 22:30** Pub night -->
+Afternoon session: Machine Learning
+* **15:30** - **16:10** **Alaa Mohasseb:**	Question Classification Using Domain Specific Syntax Lexicon Based Approach
+* **16:10** - **16:50** **Christoph Kurz:**  Demand for Medical Care by the Elderly: A Nonparametric Variational Bayesian Mixture Approach
+* **17:00** - **17:20** 	Closing Remarks & Prizes
